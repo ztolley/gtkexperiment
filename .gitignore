@@ -38,6 +38,7 @@
 
 # Build foldr
 cmake-build-debug/
+_build
 
 # Debug files
 *.dSYM/
